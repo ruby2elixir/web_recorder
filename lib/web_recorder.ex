@@ -1,0 +1,2 @@
+defmodule WebRecorder do
+end
